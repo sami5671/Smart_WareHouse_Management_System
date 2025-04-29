@@ -48,6 +48,14 @@ This project aims to design and implement a Smart Online Warehouse Management Su
 - Forecasting Module: Predictive ML model (Linear Regression/Random Forest) to estimate future sales and restock quantities.
 - Stock Suggestion System: Rules-based engine (e.g., "low sales + high stock -> reduce order") to aid procurement decisions.
 
+## WareHouse Data
+
+![App Screenshot](https://github.com/sami5671/Smart_WareHouse_Management_System/blob/main/frontend/public/feature1.png)
+
+## Predicted Result and Sales
+
+![App Screenshot](https://github.com/sami5671/Smart_WareHouse_Management_System/blob/main/frontend/public/feature2.png)
+
 # Tech Stack
 
 **Client:** React, TailwindCSS
