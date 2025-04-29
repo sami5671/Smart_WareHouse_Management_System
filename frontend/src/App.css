@@ -1,0 +1,30 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.App {
+  font-family: sans-serif;
+  padding: 2rem;
+  text-align: center;
+}
+
+input {
+  padding: 8px;
+  margin: 5px;
+  width: 200px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 10px;
+  background: #0e76a8;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.results {
+  margin-top: 20px;
+  background: #f4f4f4;
+  padding: 15px;
+  border-radius: 8px;
+}
