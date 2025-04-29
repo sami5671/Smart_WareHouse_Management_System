@@ -1,4 +1,4 @@
-![Logo](https://i.ibb.co.com/KjdTFbKY/png-transparent-silhouette-warehouse-factory-industry-logo-thumbnail-removebg-preview.png)
+![Logo](https://github.com/sami5671/Smart_WareHouse_Management_System/blob/main/frontend/public/logo.png)
 
 # Smart Online Warehouse Management Support System
 
@@ -6,7 +6,7 @@ This project aims to design and implement a Smart Online Warehouse Management Su
 
 ## System diagram of MSS
 
-![App Screenshot](https://i.ibb.co.com/9H1KFhyj/diagram.png)
+![App Screenshot](https://github.com/sami5671/Smart_WareHouse_Management_System/blob/main/frontend/public/diagra.png)
 
 ## Installation
 
